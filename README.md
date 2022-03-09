@@ -1,7 +1,9 @@
 # JavaFX
 Было выполнено 9 заданий на 9 недель:
+
 #1 - Программирование на Java
 Установил приложения intellij idea, scene builder, JDK.
+
 #2 - Коллекции данных ArrayList и LinkedList
 Поработал с коллекциями
 
@@ -10,6 +12,7 @@
 При создании коллекции необходимо указать тип данных, имя, а также выделение памяти:
 ArrayList<Float> numbers = new ArrayList<>(1);
 LinkedList<String> names = new LinkedList<>();
+	
 #3 - Отслеживание исключений в Java
   Реалиизовал конструкцию try catch
 
